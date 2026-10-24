@@ -12,3 +12,8 @@ Coopanion 桌宠形象、人设与语料、ChatGPT 订阅接入及本地语音�
 仅使用形象时，在 Coopanion 装扮页导入包内 `hazel-3.4.0.zip`。
 
 [来源与署名](SOURCES.md) · [SHA256](SHA256SUMS.txt)
+
+## Acknowledgements
+
+- 性格参考：[GreenJelly520/HZMHAZEL-AI](https://github.com/GreenJelly520/HZMHAZEL-AI)
+- 形象设计参考：[B站视频 BV1Hnp56vE4N](https://www.bilibili.com/video/BV1Hnp56vE4N/)
