@@ -1,0 +1,1 @@
+017c2c861adc39ff429d69ac5285a66496730903dc6bd6cd333c110e14cf22cd  hazel-3.4.0-r6-release.zip
